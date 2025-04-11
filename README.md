@@ -91,14 +91,14 @@ STEP 5:Include Necessary parameters in each functions.
     plt.title('histogram')
     plt.show()
     
-Screenshot 2024-05-06 110719
-
+ ![328089047-16d3a251-b5bf-4451-9dbf-b43d11d7d5ba](https://github.com/user-attachments/assets/02fb41db-b882-40aa-9134-41ba9f3fc13d)
+ 
     import matplotlib.pyplot as plt
     import numpy as np
     np.random.seed(0)
     data=np.random.normal(loc=0,scale=1,size=100)
     data
- ![328089047-16d3a251-b5bf-4451-9dbf-b43d11d7d5ba](https://github.com/user-attachments/assets/02fb41db-b882-40aa-9134-41ba9f3fc13d)
+![328088984-4d86e55a-fcd9-4f44-9bd2-599e3f8723d0](https://github.com/user-attachments/assets/4e8ce11d-3734-4a2e-bb6d-f6b49719abd2)
    
 
     fig,ax=plt.subplots()
@@ -107,7 +107,7 @@ Screenshot 2024-05-06 110719
     ax.set_ylabel("values")
     ax.set_title("box plot")
     
-![328088984-4d86e55a-fcd9-4f44-9bd2-599e3f8723d0](https://github.com/user-attachments/assets/4e8ce11d-3734-4a2e-bb6d-f6b49719abd2)
+![image](https://github.com/user-attachments/assets/3a9bd8e9-0386-49dd-bfad-a79acd95094d)
 
     import matplotlib.pyplot as plt
     activities=['eat','sleep','work','play']
